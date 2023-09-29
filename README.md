@@ -9,6 +9,10 @@ git clone https://github.com/KibuuleNoah/Note_Book
 ```
 
 ```bash
+cd Note_Book
+```
+
+```bash
 pip install -r requirements.txt
 ```
 

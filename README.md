@@ -8,9 +8,12 @@ Make sure you have the latest version of Python installed.
 git clone https://github.com/KibuuleNoah/Note_Book 
 ```
 
+## Change Directory
+
 ```bash
 cd Note_Book
 ```
+## Install Requirements
 
 ```bash
 pip install -r requirements.txt
